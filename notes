@@ -1,0 +1,26 @@
+Sujet:
+	
+	
+Tâches:
+	Promouvoir sa ou ses pages, 
+	Gestion des promotions publicitaires (use case d’administration), 
+	Monétisation, 
+	
+Promouvoir sa ou ses pages:
+	Se connecter,
+	L'utilisateur sollicite la promotion d'une page,
+	L'utilisateur est solicité pour la promotion d'une page,
+	Afficher des statistiques pour souligner l'affluence ou le manque d'affluence d'une page,
+	
+	Configuration de la campagne de promotion:
+	
+	Petit budget à moyen:
+		Public visé: masculin / féminin, age, categoie socio-pro, tags, 
+		Lieux visés
+		Budgetisation variable avec minimum
+		Options: attirer des j'aime, encourager utilisation, ...
+	
+	Grands budget:
+		Page de redirection vers un service de promotion spécial
+
+
