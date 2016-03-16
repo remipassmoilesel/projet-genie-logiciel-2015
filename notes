@@ -1,26 +1,47 @@
+Projet de génie Logiciel
+
+	Abréviations:
+		user: utilisateur
+
+
 Sujet:
 	
+	...
 	
 Tâches:
+
 	Promouvoir sa ou ses pages, 
 	Gestion des promotions publicitaires (use case d’administration), 
-	Monétisation, 
+	Monétisation de contenus,
 	
 Promouvoir sa ou ses pages:
-	Se connecter,
-	L'utilisateur sollicite la promotion d'une page,
-	L'utilisateur est solicité pour la promotion d'une page,
-	Afficher des statistiques pour souligner l'affluence ou le manque d'affluence d'une page,
-	
-	Configuration de la campagne de promotion:
-	
-	Petit budget à moyen:
-		Public visé: masculin / féminin, age, categoie socio-pro, tags, 
-		Lieux visés
-		Budgetisation variable avec minimum
-		Options: attirer des j'aime, encourager utilisation, ...
-	
-	Grands budget:
-		Page de redirection vers un service de promotion spécial
 
+	Objectifs du système: 
+		Proposer un outil de promotion de pages. Un utilisateur peut payer pour promouvoir sa page.
+
+	Flux standard:
+		User se connecte,
+		User affiche des statistiques pour souligner l'affluence ou le manque d'affluence d'une page,
+		User sollicite la promotion d'une page, ou répond à une sollicitation de promotion,
+		User configure la campagne de promo:
+			Public visé: masculin / féminin, age, categoie socio-pro, tags, 
+			Lieux visés
+			Budgetisation variable avec minimum
+			Options: attirer des j'aime, encourager utilisation, ...
+
+Monétisation de contenus:
+	
+	Objectif: 
+		Proposer aux créateur de monétiser les contenus qu'ils publient pour encourager la création de contenus.
+	
+	Flux standard:
+		L'utilisateur se connecte,
+		L'utilisateur publie un contenu,
+		L'utilisateur active la monétisation de contenu,
+		Un robot controle la validité du contenu,
+		Un robot controle la proprièté du contenu,
+		Les visiteurs utilisent le contenu,
+		Un robot réparti les gains entre les différents propriètaires,
+		
+		
 
