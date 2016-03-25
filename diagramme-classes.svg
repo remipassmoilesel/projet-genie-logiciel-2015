@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="145cm" height="85cm" viewBox="-510 -945 2895 1700" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="262.796" y="111.474" width="233.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="262.796" y="111.474" width="233.3" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="379.446" y="130.474">Utilisateur</text>
+    <rect style="fill: #ffffff" x="262.796" y="139.474" width="233.3" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="262.796" y="139.474" width="233.3" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="265.796" y="153.474">-listeContenus: List&lt;Contenu&gt;</text>
+    <rect style="fill: #ffffff" x="262.796" y="159.474" width="233.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="262.796" y="159.474" width="233.3" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="469.313" y="274.243" width="158.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="469.313" y="274.243" width="158.3" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:700" x="548.463" y="293.243">ContenuAbstrait</text>
+    <rect style="fill: #ffffff" x="469.313" y="302.243" width="158.3" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="469.313" y="302.243" width="158.3" height="68"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="472.313" y="316.243">#auteur</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="472.313" y="332.243">#destinataires</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="472.313" y="348.243">#medias: Media</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="472.313" y="364.243">#visibilité</text>
+    <rect style="fill: #ffffff" x="469.313" y="370.243" width="158.3" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="469.313" y="370.243" width="158.3" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="472.313" y="384.243">+signalerContenu()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="456.964" y="649.917" width="210.2" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="456.964" y="649.917" width="210.2" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="562.064" y="668.917">Media</text>
+    <rect style="fill: #ffffff" x="456.964" y="677.917" width="210.2" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="456.964" y="677.917" width="210.2" height="68"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="459.964" y="691.917">-type: String</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="459.964" y="707.917">-Ressource: URI</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="459.964" y="723.917">-visibilité: String</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="459.964" y="739.917">-propriétaire: Utilisateur</text>
+    <rect style="fill: #ffffff" x="456.964" y="745.917" width="210.2" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="456.964" y="745.917" width="210.2" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="562.064,648.911 562.064,619.814 564.387,619.814 564.387,603.889 "/>
+    <polygon style="fill: #ffffff" points="564.387,590.718 572.387,598.718 564.387,606.718 556.387,598.718 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="564.387,590.718 572.387,598.718 564.387,606.718 556.387,598.718 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="829.076" y="284.424">
+      <tspan x="829.076" y="284.424"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="264.886" y="412.131" width="111.45" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="264.886" y="412.131" width="111.45" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="320.611" y="431.131">Publication</text>
+    <rect style="fill: #ffffff" x="264.886" y="440.131" width="111.45" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="264.886" y="440.131" width="111.45" height="8"/>
+    <rect style="fill: #ffffff" x="264.886" y="448.131" width="111.45" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="264.886" y="448.131" width="111.45" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="246.064" y="327" width="135.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="246.064" y="327" width="135.3" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="313.714" y="346">MessagePrivé</text>
+    <rect style="fill: #ffffff" x="246.064" y="355" width="135.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="246.064" y="355" width="135.3" height="8"/>
+    <rect style="fill: #ffffff" x="246.064" y="363" width="135.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="246.064" y="363" width="135.3" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="451.077,312.243 432.313,312.243 432.313,292.243 313.714,292.243 313.714,327 "/>
+    <polygon style="fill: #ffffff" points="451.077,320.243 467.077,312.243 451.077,304.243 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="451.077,320.243 467.077,312.243 451.077,304.243 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="451.077,312.243 415.328,312.243 415.328,434.131 377.343,434.131 "/>
+    <polygon style="fill: #ffffff" points="451.077,320.243 467.077,312.243 451.077,304.243 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="451.077,320.243 467.077,312.243 451.077,304.243 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="838.131" y="-136.418" width="253.1" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="838.131" y="-136.418" width="253.1" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="964.681" y="-117.418">GestionnaireDeModération</text>
+    <rect style="fill: #ffffff" x="838.131" y="-108.418" width="253.1" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="838.131" y="-108.418" width="253.1" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="841.131" y="-94.4176">-contenusEnAttente</text>
+    <rect style="fill: #ffffff" x="838.131" y="-88.4176" width="253.1" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="838.131" y="-88.4176" width="253.1" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="841.131" y="-74.4176">+sélectionnerContenu()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="841.131" y="-58.4176">+validerContenu()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="841.131" y="-42.4176">+retirerContenu()</text>
+  </g>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="837.198,-86.4176 679.187,-86.4176 679.187,332.243 628.609,332.243 "/>
+  <g>
+    <rect style="fill: #ffffff" x="466.987" y="449.709" width="194.8" height="112"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="466.987" y="449.709" width="194.8" height="112"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="564.387" y="468.709">BibliothéqueMédias</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="564.387" y="484.209">Centralisation</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="564.387" y="498.209">des ressources</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="564.387" y="512.209">pour</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="564.387" y="526.209">optimisation</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="564.387" y="540.209">logicielle et</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="564.387" y="554.209">matérielle</text>
+    <rect style="fill: #ffffff" x="466.987" y="561.709" width="194.8" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="466.987" y="561.709" width="194.8" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="469.987" y="575.709">-médias: List&lt;Ressource&gt;</text>
+    <rect style="fill: #ffffff" x="466.987" y="581.709" width="194.8" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="466.987" y="581.709" width="194.8" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="564.387,448.7 564.387,419.975 548.463,419.975 548.463,404.422 "/>
+    <polygon style="fill: #ffffff" points="548.463,391.251 556.463,399.251 548.463,407.251 540.463,399.251 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="548.463,391.251 556.463,399.251 548.463,407.251 540.463,399.251 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="897.752" y="317.96">
+      <tspan x="897.752" y="317.96"></tspan>
+    </text>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="555.79" y="347.147">
+    <tspan x="555.79" y="347.147"></tspan>
+  </text>
+  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1385.74" y="-918.112">
+    <tspan x="1385.74" y="-918.112">Vue</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="1016.23" y="-853.342" width="179.4" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1016.23" y="-853.342" width="179.4" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1105.93" y="-834.342">InterfaceWeb</text>
+    <rect style="fill: #ffffff" x="1016.23" y="-825.342" width="179.4" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1016.23" y="-825.342" width="179.4" height="8"/>
+    <rect style="fill: #ffffff" x="1016.23" y="-817.342" width="179.4" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1016.23" y="-817.342" width="179.4" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1019.23" y="-803.342">+getSmallScreenView()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1019.23" y="-787.342">+getMediumScreenView()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1019.23" y="-771.342">+getLargeScreenView()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1225.25" y="-853.082" width="194" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1225.25" y="-853.082" width="194" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1322.25" y="-834.082">InterfaceApplication</text>
+    <rect style="fill: #ffffff" x="1225.25" y="-825.082" width="194" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1225.25" y="-825.082" width="194" height="8"/>
+    <rect style="fill: #ffffff" x="1225.25" y="-817.082" width="194" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1225.25" y="-817.082" width="194" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1147.64" y="-670.812" width="164" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1147.64" y="-670.812" width="164" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:700" x="1229.64" y="-651.812">Vue</text>
+    <rect style="fill: #ffffff" x="1147.64" y="-642.812" width="164" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1147.64" y="-642.812" width="164" height="8"/>
+    <rect style="fill: #ffffff" x="1147.64" y="-634.812" width="164" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1147.64" y="-634.812" width="164" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1150.64" y="-620.812">+rendre(media:Media)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1242.44" y="-550.488" width="251.45" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1242.44" y="-550.488" width="251.45" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1368.17" y="-531.488">PréférencesConfidentialité</text>
+    <rect style="fill: #ffffff" x="1242.44" y="-522.488" width="251.45" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1242.44" y="-522.488" width="251.45" height="8"/>
+    <rect style="fill: #ffffff" x="1242.44" y="-514.488" width="251.45" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1242.44" y="-514.488" width="251.45" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1549.46" y="-548.932" width="212.6" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1549.46" y="-548.932" width="212.6" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1655.76" y="-529.932">ConversationsEnCours</text>
+    <rect style="fill: #ffffff" x="1549.46" y="-520.932" width="212.6" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1549.46" y="-520.932" width="212.6" height="8"/>
+    <rect style="fill: #ffffff" x="1549.46" y="-512.932" width="212.6" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1549.46" y="-512.932" width="212.6" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1245.58" y="-455.88" width="166.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1245.58" y="-455.88" width="166.3" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1328.73" y="-436.88">PréférencesProfil</text>
+    <rect style="fill: #ffffff" x="1245.58" y="-427.88" width="166.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1245.58" y="-427.88" width="166.3" height="8"/>
+    <rect style="fill: #ffffff" x="1245.58" y="-419.88" width="166.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1245.58" y="-419.88" width="166.3" height="8"/>
+  </g>
+  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="561.94" y="-192.939">
+    <tspan x="561.94" y="-192.939">Modèle</tspan>
+  </text>
+  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="2080.5" y="-178.674">
+    <tspan x="2080.5" y="-178.674">Contrôleur</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="1083.12" y="-555.22" width="106.75" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1083.12" y="-555.22" width="106.75" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1136.5" y="-536.22">Inscription</text>
+    <rect style="fill: #ffffff" x="1083.12" y="-527.22" width="106.75" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1083.12" y="-527.22" width="106.75" height="8"/>
+    <rect style="fill: #ffffff" x="1083.12" y="-519.22" width="106.75" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1083.12" y="-519.22" width="106.75" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1084.01" y="-465.796" width="104.6" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1084.01" y="-465.796" width="104.6" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1136.31" y="-446.796">Connexion</text>
+    <rect style="fill: #ffffff" x="1084.01" y="-437.796" width="104.6" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1084.01" y="-437.796" width="104.6" height="8"/>
+    <rect style="fill: #ffffff" x="1084.01" y="-429.796" width="104.6" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1084.01" y="-429.796" width="104.6" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1229.64,-597.642 1229.64,-576.513 1136.5,-576.513 1136.5,-555.22 "/>
+    <polygon style="fill: #ffffff" points="1237.64,-597.642 1229.64,-613.642 1221.64,-597.642 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1237.64,-597.642 1229.64,-613.642 1221.64,-597.642 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1229.64,-595.729 1229.64,-472.062 1136.31,-472.062 1136.31,-465.796 "/>
+    <polygon style="fill: #ffffff" points="1237.64,-595.729 1229.64,-611.729 1221.64,-595.729 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1237.64,-595.729 1229.64,-611.729 1221.64,-595.729 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1229.64,-596.576 1229.64,-472.062 1328.73,-472.062 1328.73,-456.867 "/>
+    <polygon style="fill: #ffffff" points="1237.64,-596.576 1229.64,-612.576 1221.64,-596.576 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1237.64,-596.576 1229.64,-612.576 1221.64,-596.576 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1229.64,-596.576 1229.64,-570.764 1368.17,-570.764 1368.17,-551.494 "/>
+    <polygon style="fill: #ffffff" points="1237.64,-596.576 1229.64,-612.576 1221.64,-596.576 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1237.64,-596.576 1229.64,-612.576 1221.64,-596.576 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1229.64,-596.576 1229.64,-570.764 1655.76,-570.764 1655.76,-549.929 "/>
+    <polygon style="fill: #ffffff" points="1237.64,-596.576 1229.64,-612.576 1221.64,-596.576 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1237.64,-596.576 1229.64,-612.576 1221.64,-596.576 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1551.54" y="-454.75" width="186.7" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1551.54" y="-454.75" width="186.7" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1644.89" y="-435.75">PublicationsAimées</text>
+    <rect style="fill: #ffffff" x="1551.54" y="-426.75" width="186.7" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1551.54" y="-426.75" width="186.7" height="8"/>
+    <rect style="fill: #ffffff" x="1551.54" y="-418.75" width="186.7" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1551.54" y="-418.75" width="186.7" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1229.64,-596.576 1229.64,-472.062 1644.89,-472.062 1644.89,-455.756 "/>
+    <polygon style="fill: #ffffff" points="1237.64,-596.576 1229.64,-612.576 1221.64,-596.576 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1237.64,-596.576 1229.64,-612.576 1221.64,-596.576 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1229.64,-671.819 1229.64,-718.078 1105.93,-718.078 1105.93,-751.165 "/>
+    <polygon style="fill: #ffffff" points="1105.93,-764.337 1113.93,-756.337 1105.93,-748.337 1097.93,-756.337 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1105.93,-764.337 1113.93,-756.337 1105.93,-748.337 1097.93,-756.337 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1203.08" y="-663.304">
+      <tspan x="1203.08" y="-663.304"></tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1229.64,-671.754 1229.64,-718.222 1322.25,-718.222 1322.25,-795.91 "/>
+    <polygon style="fill: #ffffff" points="1322.25,-809.082 1330.25,-801.082 1322.25,-793.082 1314.25,-801.082 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1322.25,-809.082 1330.25,-801.082 1322.25,-793.082 1314.25,-801.082 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="1341.02" y="-732.492">
+      <tspan x="1341.02" y="-732.492"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1896.91" y="-72.5832" width="410.4" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1896.91" y="-72.5832" width="410.4" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:700" x="2102.11" y="-53.5832">Contrôleur</text>
+    <rect style="fill: #ffffff" x="1896.91" y="-44.5832" width="410.4" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1896.91" y="-44.5832" width="410.4" height="8"/>
+    <rect style="fill: #ffffff" x="1896.91" y="-36.5832" width="410.4" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1896.91" y="-36.5832" width="410.4" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1899.91" y="-22.5832">+abstractValiderOperation(requete:String[]): boolean</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1899.91" y="-6.5832">+abstractProcéderOpération()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1846.36" y="74.6614" width="203.1" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1846.36" y="74.6614" width="203.1" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1947.91" y="93.6614">ContrôleurInscription</text>
+    <rect style="fill: #ffffff" x="1846.36" y="102.661" width="203.1" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1846.36" y="102.661" width="203.1" height="8"/>
+    <rect style="fill: #ffffff" x="1846.36" y="110.661" width="203.1" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1846.36" y="110.661" width="203.1" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1877.59" y="198.409" width="207.8" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1877.59" y="198.409" width="207.8" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1981.49" y="217.409">ContrôleurPublication</text>
+    <rect style="fill: #ffffff" x="1877.59" y="226.409" width="207.8" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1877.59" y="226.409" width="207.8" height="8"/>
+    <rect style="fill: #ffffff" x="1877.59" y="234.409" width="207.8" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1877.59" y="234.409" width="207.8" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="2157.38" y="80.5694" width="226.85" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2157.38" y="80.5694" width="226.85" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="2270.8" y="99.5694">ContrôleurIdentification</text>
+    <rect style="fill: #ffffff" x="2157.38" y="108.569" width="226.85" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2157.38" y="108.569" width="226.85" height="8"/>
+    <rect style="fill: #ffffff" x="2157.38" y="116.569" width="226.85" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="2157.38" y="116.569" width="226.85" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2102.11,18.6619 2102.11,45.5436 1947.91,45.5436 1947.91,74.6614 "/>
+    <polygon style="fill: #ffffff" points="2110.11,18.6619 2102.11,2.6619 2094.11,18.6619 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2110.11,18.6619 2102.11,2.6619 2094.11,18.6619 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2102.1,17.6529 2102.1,151.243 1981.49,151.243 1981.49,197.402 "/>
+    <polygon style="fill: #ffffff" points="2110.1,17.6529 2102.1,1.65286 2094.1,17.6529 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2110.1,17.6529 2102.1,1.65286 2094.1,17.6529 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2102.1,17.6529 2102.1,46.5972 2270.8,46.5972 2270.8,79.5847 "/>
+    <polygon style="fill: #ffffff" points="2110.1,17.6529 2102.1,1.65286 2094.1,17.6529 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2110.1,17.6529 2102.1,1.65286 2094.1,17.6529 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="209.156" y="-149.899" width="271.8" height="84"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="209.156" y="-149.899" width="271.8" height="84"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="345.056" y="-130.899">GestionnaireUtilisateur</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="345.056" y="-115.399">Décentralisation</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="345.056" y="-101.399">des méthodes de</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="345.056" y="-87.3988">gestion des</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="345.056" y="-73.3988">utilisateurs</text>
+    <rect style="fill: #ffffff" x="209.156" y="-65.8988" width="271.8" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="209.156" y="-65.8988" width="271.8" height="8"/>
+    <rect style="fill: #ffffff" x="209.156" y="-57.8988" width="271.8" height="116"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="209.156" y="-57.8988" width="271.8" height="116"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="212.156" y="-43.8988">+listeUtilisateurs()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="212.156" y="-27.8988">+listeGroupes()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="212.156" y="-11.8988">+créerUtilisateur()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="212.156" y="4.10122">+supprimerUtilisateur()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="212.156" y="20.1012">+bloquerUtilisateur()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="212.156" y="36.1012">+modifierInformationsUtilisateur()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="212.156" y="52.1012">+()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-324.935" y="-118.356" width="299.25" height="84"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-324.935" y="-118.356" width="299.25" height="84"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-175.31" y="-99.3562">GestionnaireTachesTemporisées</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-175.31" y="-83.8562">Lancer des</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-175.31" y="-69.8562">tâches à</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-175.31" y="-55.8562">intervals</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-175.31" y="-41.8562">réguliers</text>
+    <rect style="fill: #ffffff" x="-324.935" y="-34.3562" width="299.25" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-324.935" y="-34.3562" width="299.25" height="8"/>
+    <rect style="fill: #ffffff" x="-324.935" y="-26.3562" width="299.25" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-324.935" y="-26.3562" width="299.25" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-437.909" y="14.8343" width="202.5" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-437.909" y="14.8343" width="202.5" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-336.659" y="33.8343">TacheAbstraite</text>
+    <rect style="fill: #ffffff" x="-437.909" y="42.8343" width="202.5" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-437.909" y="42.8343" width="202.5" height="8"/>
+    <rect style="fill: #ffffff" x="-437.909" y="50.8343" width="202.5" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-437.909" y="50.8343" width="202.5" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-434.909" y="64.8343">+executer()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-434.909" y="80.8343">+dateProchaineExecution()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-434.909" y="96.8343">+()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-505.991" y="137.56" width="240.35" height="98"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-505.991" y="137.56" width="240.35" height="98"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-385.816" y="156.56">RappelAnniversairesAmis</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-385.816" y="172.06">Rappeler les</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-385.816" y="186.06">anniversaires de</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-385.816" y="200.06">la liste</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-385.816" y="214.06">d'utilisateurs</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-385.816" y="228.06">amis</text>
+    <rect style="fill: #ffffff" x="-505.991" y="235.56" width="240.35" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-505.991" y="235.56" width="240.35" height="8"/>
+    <rect style="fill: #ffffff" x="-505.991" y="243.56" width="240.35" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-505.991" y="243.56" width="240.35" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-508.667" y="288.826" width="246.85" height="126"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-508.667" y="288.826" width="246.85" height="126"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-385.242" y="307.826">CompleterProfilUtilisateur</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-385.242" y="323.326">Encourager les</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-385.242" y="337.326">utilisateurs à</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-385.242" y="351.326">remplir leur</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-385.242" y="365.326">profil avec</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-385.242" y="379.326">leurs</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-385.242" y="393.326">informations</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-385.242" y="407.326">personnelles</text>
+    <rect style="fill: #ffffff" x="-508.667" y="414.826" width="246.85" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-508.667" y="414.826" width="246.85" height="8"/>
+    <rect style="fill: #ffffff" x="-508.667" y="422.826" width="246.85" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-508.667" y="422.826" width="246.85" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-507.775" y="467.444" width="252.8" height="112"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-507.775" y="467.444" width="252.8" height="112"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-381.375" y="486.444">SolliciterPromotionDePage</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-381.375" y="501.944">Encourager les</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-381.375" y="515.944">utilisateurs à</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-381.375" y="529.944">souscrire au</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-381.375" y="543.944">service payant</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-381.375" y="557.944">de promotion de</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-381.375" y="571.944">pages</text>
+    <rect style="fill: #ffffff" x="-507.775" y="579.444" width="252.8" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-507.775" y="579.444" width="252.8" height="8"/>
+    <rect style="fill: #ffffff" x="-507.775" y="587.444" width="252.8" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-507.775" y="587.444" width="252.8" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-506.883" y="638.927" width="279.25" height="98"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-506.883" y="638.927" width="279.25" height="98"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-367.258" y="657.927">SolliciterServicesPublicitaires</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-367.258" y="673.427">Encourager les</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-367.258" y="687.427">utilisateurs à</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-367.258" y="701.427">souscrire aux</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-367.258" y="715.427">services</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-367.258" y="729.427">publicitaires</text>
+    <rect style="fill: #ffffff" x="-506.883" y="736.927" width="279.25" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-506.883" y="736.927" width="279.25" height="8"/>
+    <rect style="fill: #ffffff" x="-506.883" y="744.927" width="279.25" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-506.883" y="744.927" width="279.25" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="548.463,273.437 548.463,228.061 379.446,228.061 379.446,181.637 "/>
+    <polygon style="fill: #ffffff" points="379.446,168.466 387.446,176.466 379.446,184.466 371.446,176.466 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="379.446,168.466 387.446,176.466 379.446,184.466 371.446,176.466 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="397.76" y="218.161">
+      <tspan x="397.76" y="218.161"></tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="379.446,111.474 379.446,88.8708 345.056,88.8708 345.056,71.2728 "/>
+    <polygon style="fill: #ffffff" points="345.056,58.1012 353.056,66.1012 345.056,74.1012 337.056,66.1012 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="345.056,58.1012 353.056,66.1012 345.056,74.1012 337.056,66.1012 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="655.553" y="447.972">
+      <tspan x="655.553" y="447.972"></tspan>
+    </text>
+  </g>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-80.7699,154.97 -107.11,154.97 -107.11,194.56 -264.665,194.56 "/>
+  <g>
+    <rect style="fill: #ffffff" x="-79.7942" y="132.97" width="158.8" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-79.7942" y="132.97" width="158.8" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-0.394196" y="151.97">UtilisateursAmis</text>
+    <rect style="fill: #ffffff" x="-79.7942" y="160.97" width="158.8" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-79.7942" y="160.97" width="158.8" height="8"/>
+    <rect style="fill: #ffffff" x="-79.7942" y="168.97" width="158.8" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-79.7942" y="168.97" width="158.8" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="80.0156,154.97 170.902,154.97 170.902,139.474 248.618,139.474 "/>
+    <polygon style="fill: #ffffff" points="261.789,139.474 253.789,147.474 245.789,139.474 253.789,131.474 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="261.789,139.474 253.789,147.474 245.789,139.474 253.789,131.474 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="112.091" y="111.895">
+      <tspan x="112.091" y="111.895"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="732.49" y="-570.77" width="113.45" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="732.49" y="-570.77" width="113.45" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="789.215" y="-551.77">Moderation</text>
+    <rect style="fill: #ffffff" x="732.49" y="-542.77" width="113.45" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="732.49" y="-542.77" width="113.45" height="8"/>
+    <rect style="fill: #ffffff" x="732.49" y="-534.77" width="113.45" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="732.49" y="-534.77" width="113.45" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="737.793" y="-467.251" width="182.35" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="737.793" y="-467.251" width="182.35" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="828.968" y="-448.251">GestionPublicitaire</text>
+    <rect style="fill: #ffffff" x="737.793" y="-439.251" width="182.35" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="737.793" y="-439.251" width="182.35" height="8"/>
+    <rect style="fill: #ffffff" x="737.793" y="-431.251" width="182.35" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="737.793" y="-431.251" width="182.35" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1229.64,-595.585 1229.64,-590.569 789.215,-590.569 789.215,-571.762 "/>
+    <polygon style="fill: #ffffff" points="1237.64,-595.585 1229.64,-611.585 1221.64,-595.585 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1237.64,-595.585 1229.64,-611.585 1221.64,-595.585 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1229.64,-595.858 1229.64,-497.232 828.968,-497.232 828.968,-468.253 "/>
+    <polygon style="fill: #ffffff" points="1237.64,-595.858 1229.64,-611.858 1221.64,-595.858 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1237.64,-595.858 1229.64,-611.858 1221.64,-595.858 "/>
+  </g>
+</svg>
