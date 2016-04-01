@@ -732,7 +732,7 @@
     <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="532.365,775.731 524.365,759.731 516.365,775.731 "/>
   </g>
   <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="524.365,775.712 524.365,910.944 355.465,910.944 355.465,927.377 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="524.365,775.712 524.365,910.944 355.465,910.944 355.465,927.378 "/>
     <polygon style="fill: #ffffff" points="532.365,775.712 524.365,759.712 516.365,775.712 "/>
     <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="532.365,775.712 524.365,759.712 516.365,775.712 "/>
   </g>
@@ -1693,9 +1693,9 @@
     <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="4332.26,-761.278 4324.26,-777.278 4316.26,-761.278 "/>
   </g>
   <g>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="4324.26,-761.282 4324.26,-79.367 4698.52,-79.367 4698.52,0.837846 "/>
-    <polygon style="fill: #ffffff" points="4332.26,-761.282 4324.26,-777.282 4316.26,-761.282 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="4332.26,-761.282 4324.26,-777.282 4316.26,-761.282 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="4324.26,-761.299 4324.26,-80.0741 4698.52,-80.0741 4698.52,0.837846 "/>
+    <polygon style="fill: #ffffff" points="4332.26,-761.299 4324.26,-777.299 4316.26,-761.299 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="4332.26,-761.299 4324.26,-777.299 4316.26,-761.299 "/>
   </g>
   <g>
     <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="4324.26,-761.305 4324.26,-80.2042 3766.21,-80.2042 3766.21,-2.0164 "/>
@@ -2076,5 +2076,21 @@
     <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2341.96,-1198.94 2857.73,-1198.94 2857.73,-941.485 2901.76,-941.485 "/>
     <polygon style="fill: #ffffff" points="2341.96,-1206.94 2325.96,-1198.94 2341.96,-1190.94 "/>
     <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="2341.96,-1206.94 2325.96,-1198.94 2341.96,-1190.94 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-2.20356" y="-631.42" width="231.5" height="56"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2.20356" y="-631.42" width="231.5" height="56"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="113.546" y="-612.42">PrésentationDuRéseau</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="113.546" y="-596.92">Présentation de la plateforme et de ses</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="113.546" y="-582.92">fonctionnalités</text>
+    <rect style="fill: #ffffff" x="-2.20356" y="-575.42" width="231.5" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2.20356" y="-575.42" width="231.5" height="8"/>
+    <rect style="fill: #ffffff" x="-2.20356" y="-567.42" width="231.5" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2.20356" y="-567.42" width="231.5" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="245.873,-920.097 245.873,-652.304 113.546,-652.304 113.546,-632.424 "/>
+    <polygon style="fill: #ffffff" points="253.873,-920.097 245.873,-936.097 237.873,-920.097 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="253.873,-920.097 245.873,-936.097 237.873,-920.097 "/>
   </g>
 </svg>
