@@ -1,0 +1,4 @@
+Généricité: justifier par l'exemple de recherches. Pour un module, rechercher des informations dans une structure rigide nécéssite d'avoir une bonne connaissance de la structure.
+
+Une structure souple permet des recherches génériques, par un point d'accés multiple, exemple:
+	GestionnaireUtilisateur.getUtilisateur(id).getAllConteneurs() # pour toutes les informations
